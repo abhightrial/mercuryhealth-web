@@ -2,9 +2,7 @@
 
 name: mercuryhealth-web-ci
 
-on:
-  push:
-    branches: [ main ]
+on: [push]
 
 jobs:
   build:
